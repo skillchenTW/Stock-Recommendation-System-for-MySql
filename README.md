@@ -45,7 +45,7 @@ SELECT MAX(Date) as MaxDate FROM TW.`2330.tw`;
 
 
 (env) PS F:\Stock_Recommendation> python t06_testRecommender.py
-
+執行日期: 2021/09/30 
 ==**印度 India (Nifty 50)**============================================
 
 -   Decision GC Buying Signal for bpcl.ns

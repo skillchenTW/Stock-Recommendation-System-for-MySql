@@ -12,10 +12,10 @@ def sendMail_Recommendation():
     instRtsi = reco.Recommender('RTSI')
     instTW = reco.Recommender('TW')
 
-    # instnifty.updateDB()
-    # instBovespa.updateDB()
-    # instRtsi.updateDB()
-    # instTW.updateDB()
+    instnifty.updateDB()
+    instBovespa.updateDB()
+    instRtsi.updateDB()
+    instTW.updateDB()
 
     sender = creds.sender
     receiver = creds.receiver
