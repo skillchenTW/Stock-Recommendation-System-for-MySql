@@ -1,0 +1,51 @@
+,Company,Ticker symbol,Stock type,Industry
+0,AFK Sistema,AFKS,Common,Conglomerate
+1,Aeroflot,AFLT,Common,Transportation
+2,Rusagro,AGRO,Depositary receipt,Agriculture
+3,Acron,AKRN,Common,Chemicals
+4,Lenta,LNTA,Depositary receipt,Retail
+5,Credit Bank of Moscow,CBOM,Common,Banking
+6,Detsky Mir,DSKY,Common,Retail
+7,SeverStal,CHMF,Common,Mining & Metallurgy
+8,DIXY,DIXY,Common,Retail
+9,FGC UES,FEES,Common,Electric utility
+10,Gazprom,GAZP,Common,Oil & gas
+11,Norilsk Nickel,GMKN,Common,Mining & Metallurgy
+12,RusHydro,HYDR,Common,Energy
+13,Inter RAO,IRAO,Common,Energy
+14,Lukoil,LKOH,Common,Oil & gas
+15,LSR Group,LSRG,Common,Real estate development
+16,Magnitogorsk Iron and Steel Works,MAGN,Common,Metallurgy
+17,MegaFon,MFON,Common,Telecommunication
+18,OJSC Magnit,MGNT,Common,Retail
+19,Moscow Exchange,MOEX,Common,Stock exchange
+20,Mosenergo,MSNG,Common,Energy
+21,Mechel,MTLR,Common,Mining & Metallurgy
+22,Alrosa,ALRS,Common,Mining
+23,Mobile TeleSystems,MTSS,Common,Telecommunication
+24,M.video,MVID,Common,Retail
+25,Novolipetsk Steel,NLMK,Common,Metallurgy
+26,Novorossiysk Commercial Sea Port,NMPT,Common,Transportation
+27,Novatek,NVTK,Common,Oil & gas
+28,PhosAgro,PHOR,Common,Chemicals
+29,PIK Group,PIKK,Common,Real estate development
+30,Polyus Gold,PLZL,Common,Mining
+31,Polymetal International,POLY,Common,Mining
+32,Rosneft,ROSN,Common,Oil & gas
+33,Rosseti,RSTI,Common,Electric utility
+34,Rostelecom,RTKM,Common,Telecommunication
+35,Rusal,RUALR,Russian depositary receipt (RDR),Mining
+36,SFI,EPLN,Common,Leasing
+37,Sberbank,SBER,Common,Banking
+38,Sberbank,SBERP,Preferred,Banking
+39,Surgutneftegas,SNGS,Common,Oil & gas
+40,Surgutneftegas,SNGSP,Preferred,Oil & gas
+41,Tatneft,TATN,Common,Oil & gas
+42,Tatneft,TATNP,Preferred,Oil & gas
+43,OAO TMK,TRMK,Common,Steel industry
+44,Transneft,TRNFP,Preferred,Oil & gas
+45,Unipro,UPRO,Common,Electric utility
+46,Russneft,RNFT,Common,Refining
+47,United Wagon Company,UWGN,Common,Mechanical engineering
+48,VTB Bank,VTBR,Common,Banking
+49,Yandex,YNDX,Common,Internet
